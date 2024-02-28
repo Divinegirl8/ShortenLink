@@ -34,7 +34,8 @@ build/
 
 ### VS Code ###
 .vscode/
-/home/user/Documents/linkShortener/src/main/resources/application.properties
+/src/main/resources/application.properties
+
 
 ### Mac OS ###
 .DS_Store
